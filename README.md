@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Raut</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate about Data Analyst / Product Analyst / Business Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajraut1997&label=Profile%20views&color=0e75b6&style=flat" alt="surajraut1997" /> </p>
 
